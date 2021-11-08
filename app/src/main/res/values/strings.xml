@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Cryptocurrency</string>
+    <string name="title_market_cap">Market Cap</string>
+    <string name="title_portfolio">Portfolio</string>
+    <string name="title_favorite_track">Favorite</string>
+    <string name="title">Application</string>
+    <string name="dialog_purchase_title">Insert amount for purchase</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_user_setting">UserSettingActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_intro">IntroActivity</string>
+    <string name="USER_COINS_PREFERENCES_KEY">CONVERT_COINS</string>
+    <string name="USER_LOG_PREFERENCES_KEY">User_Log</string>
+    <string name="USER_ID">user_id</string>
+    <string name="head_title">To Get Started choose coins</string>
+    <string name="string_user_trade_title">To Trade in crypto insert your details</string>
+    <string name="Log_in_title">Log in to start trade in crypto currency</string>
+
+    //BASE URL:
+    <string name="HISTORY_DAY_BASE_URL">https://min-api.cryptocompare.com/</string>
+
+</resources>

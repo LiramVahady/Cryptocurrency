@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "225321303277",
+    "project_id": "cryptocurrency-ed8de",
+    "storage_bucket": "cryptocurrency-ed8de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225321303277:android:864641c341da40e5da60e4",
+        "android_client_info": {
+          "package_name": "liram.dev.cryptocurrency"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225321303277-db9g8t83tk5sa22370a1t92g034cqcds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb6ChYGd-x2lYDwc8ajsEJboKWRWvI1GM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225321303277-db9g8t83tk5sa22370a1t92g034cqcds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_market"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_market_cap" />
+
+    <item
+        android:id="@+id/navigation_portfolio"
+        android:icon="@drawable/ic_bagage"
+        android:title="@string/title_portfolio" />
+
+    <item
+        android:id="@+id/navigation_favorite_tracker"
+        android:icon="@drawable/ic_stars"
+        android:title="@string/title_favorite_track" />
+
+</menu>

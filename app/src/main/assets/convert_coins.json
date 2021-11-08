@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "code": "USD",
+      "symbol": "$",
+      "country": "United State Of America"
+    },
+    {
+      "code": "CAD",
+      "symbol": "$CA",
+      "country": "Canada"
+    },
+    {
+      "code": "EUR",
+      "symbol": "€",
+      "country": "Europe"
+    },
+    {
+      "code": "GBP",
+      "country": "British Pound"
+    },
+    {
+      "code": "ILS",
+      "country": "Israel"
+    },
+    {
+      "code": "JPY",
+      "country": "Japan"
+    }, {
+      "code": "CNH",
+      "country": "China"
+    }, {
+      "code": "AUD",
+      "country": "Australia"
+    },{
+      "code": "MAD",
+      "country": "Morocco"
+    },
+    {
+      "code": "RUB",
+      "country": "Russian"
+    }
+  ]
+}
+
